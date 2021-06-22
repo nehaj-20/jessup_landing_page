@@ -1,0 +1,17 @@
+{
+    "folders": [
+		{
+			"path": "../../JQuery"
+		},
+		{
+			"path": "../../AJAX"
+		},
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "git.ignoreLimitWarning": true,
+        "liveServer.settings.multiRootWorkspaceName": "AJAX"
+    }
+}
